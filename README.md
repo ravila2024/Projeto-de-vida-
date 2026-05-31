@@ -1,25 +1,43 @@
 # Projeto de Vida: Organizando Objetivos Futuros com Matemática Aplicada
 
-## Objetivo
-Utilizar conceitos matemáticos para planejar metas pessoais, acadêmicas e profissionais.
+## Etapa 9 – Planejamento e Acompanhamento de Metas
 
-## Metas de Curto Prazo
-- Concluir o Ensino Médio.
-- Melhorar o desempenho em Matemática.
-- Estudar para o ENEM e vestibulares.
+Nesta etapa, realizei uma reflexão sobre meus objetivos para os próximos anos e utilizei conceitos matemáticos para organizar melhor minhas metas.
 
-## Metas de Médio Prazo
-- Ingressar em uma universidade pública.
-- Desenvolver habilidades profissionais.
-- Participar de cursos complementares.
+### Objetivos Acadêmicos
 
-## Metas de Longo Prazo
-- Concluir a graduação.
-- Conquistar estabilidade financeira.
-- Atuar na área profissional escolhida.
+* Concluir o Ensino Médio com bom desempenho.
+* Obter uma boa nota no ENEM e nos vestibulares.
+* Ingressar em uma universidade pública.
 
-## Aplicação da Matemática
-A matemática auxilia no planejamento financeiro, na organização do tempo e na definição de metas alcançáveis por meio da análise de dados e projeções.
+### Objetivos Profissionais
+
+* Escolher uma área profissional alinhada aos meus interesses.
+* Participar de cursos e atividades que contribuam para minha formação.
+* Construir experiência para o mercado de trabalho.
+
+### Planejamento Financeiro
+
+Utilizando a matemática, elaborei uma estimativa de gastos e economias necessárias para alcançar meus objetivos. O planejamento financeiro permite analisar despesas, estabelecer metas de economia e tomar decisões mais conscientes.
+
+### Cronograma de Metas
+
+**Curto prazo (1 ano):**
+
+* Concluir o ano letivo.
+* Intensificar os estudos para vestibulares.
+
+**Médio prazo (2 a 5 anos):**
+
+* Iniciar a graduação.
+* Desenvolver habilidades profissionais.
+
+**Longo prazo (mais de 5 anos):**
+
+* Concluir a formação universitária.
+* Alcançar independência financeira.
+* Atuar na profissão escolhida.
 
 ## Conclusão
-O projeto de vida permite estabelecer objetivos claros e utilizar ferramentas matemáticas para acompanhar o progresso e tomar decisões mais conscientes.
+
+A matemática é uma ferramenta importante para a construção do projeto de vida, pois auxilia na organização, no planejamento e no acompanhamento dos objetivos. Com metas bem definidas e planejamento adequado, torna-se mais fácil acompanhar o progresso e realizar os sonhos futuros.
